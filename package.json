@@ -1,0 +1,24 @@
+{
+  "name": "Kafka",
+  "version": "0.0.0",
+  "description": "a middleware for rpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i7xh/Kafka.git"
+  },
+  "keywords": [
+    "kafka",
+    "rpc",
+    "middleware"
+  ],
+  "author": "i7xh <ixh.xiheng@gmail.com> (http://www.zhihu.com/i7xh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i7xh/Kafka/issues"
+  },
+  "homepage": "https://github.com/i7xh/Kafka"
+}
