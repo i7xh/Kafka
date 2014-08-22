@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/i7xh/Kafka/issues"
   },
-  "homepage": "https://github.com/i7xh/Kafka"
+  "homepage": "https://github.com/i7xh/Kafka",
+  "dependencies": {
+    "run-sequence": "^0.3.6"
+  }
 }
